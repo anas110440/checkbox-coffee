@@ -33,7 +33,7 @@
   left: 0;
   width: 175px;
   height: 150px;
-  background: url(/img/1.png);
+  background: url(/img/coffee_01.png);
   background-size: auto 150px;
   background-repeat: no-repeat;
   transition: 1.5s;
@@ -42,7 +42,7 @@
 }
 .checkbox-coffee label input:checked ~ span {
   left: 150px;
-  background: url(/img/2.png);
+  background: url(/img/coffee_02.png);
   background-size: auto 150px;
   background-repeat: no-repeat;
   transform: rotate(360deg);
